@@ -29,7 +29,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kabul',
                 'currency' => 'AFN',
                 'currency_name' => 'Afghani',
-                'phonecode' => 93,
+                'phone_code' => 93,
             ),
             1 => 
             array (
@@ -41,7 +41,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tirana',
                 'currency' => 'ALL',
                 'currency_name' => 'Lek',
-                'phonecode' => 355,
+                'phone_code' => 355,
             ),
             2 => 
             array (
@@ -53,7 +53,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Algiers',
                 'currency' => 'DZD',
                 'currency_name' => 'Dinar',
-                'phonecode' => 213,
+                'phone_code' => 213,
             ),
             3 => 
             array (
@@ -65,7 +65,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Pago Pago',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1684,
+                'phone_code' => 1684,
             ),
             4 => 
             array (
@@ -77,7 +77,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Andorra la Vella',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 376,
+                'phone_code' => 376,
             ),
             5 => 
             array (
@@ -89,7 +89,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Luanda',
                 'currency' => 'AOA',
                 'currency_name' => 'Kwanza',
-                'phonecode' => 244,
+                'phone_code' => 244,
             ),
             6 => 
             array (
@@ -101,7 +101,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'The Valley',
                 'currency' => 'XCD',
                 'currency_name' => 'DOllar',
-                'phonecode' => 1264,
+                'phone_code' => 1264,
             ),
             7 => 
             array (
@@ -113,7 +113,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => NULL,
                 'currency' => NULL,
                 'currency_name' => NULL,
-                'phonecode' => 0,
+                'phone_code' => 0,
             ),
             8 => 
             array (
@@ -125,7 +125,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'St. John\'s',
                 'currency' => 'XCD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1268,
+                'phone_code' => 1268,
             ),
             9 => 
             array (
@@ -137,7 +137,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Buenos Aires',
                 'currency' => 'ARS',
                 'currency_name' => 'Peso',
-                'phonecode' => 54,
+                'phone_code' => 54,
             ),
             10 => 
             array (
@@ -149,7 +149,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Yerevan',
                 'currency' => 'AMD',
                 'currency_name' => 'Dram',
-                'phonecode' => 374,
+                'phone_code' => 374,
             ),
             11 => 
             array (
@@ -161,7 +161,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Oranjestad',
                 'currency' => 'AWG',
                 'currency_name' => 'Guilder',
-                'phonecode' => 297,
+                'phone_code' => 297,
             ),
             12 => 
             array (
@@ -173,7 +173,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Canberra',
                 'currency' => 'AUD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 61,
+                'phone_code' => 61,
             ),
             13 => 
             array (
@@ -185,7 +185,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Vienna',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 43,
+                'phone_code' => 43,
             ),
             14 => 
             array (
@@ -197,7 +197,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Baku',
                 'currency' => 'AZN',
                 'currency_name' => 'Manat',
-                'phonecode' => 994,
+                'phone_code' => 994,
             ),
             15 => 
             array (
@@ -209,7 +209,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Nassau',
                 'currency' => 'BSD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1242,
+                'phone_code' => 1242,
             ),
             16 => 
             array (
@@ -221,7 +221,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Manama',
                 'currency' => 'BHD',
                 'currency_name' => 'Dinar',
-                'phonecode' => 973,
+                'phone_code' => 973,
             ),
             17 => 
             array (
@@ -233,7 +233,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Dhaka',
                 'currency' => 'BDT',
                 'currency_name' => 'Taka',
-                'phonecode' => 880,
+                'phone_code' => 880,
             ),
             18 => 
             array (
@@ -245,7 +245,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bridgetown',
                 'currency' => 'BBD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1246,
+                'phone_code' => 1246,
             ),
             19 => 
             array (
@@ -257,7 +257,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Minsk',
                 'currency' => 'BYR',
                 'currency_name' => 'Ruble',
-                'phonecode' => 375,
+                'phone_code' => 375,
             ),
             20 => 
             array (
@@ -269,7 +269,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Brussels',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 32,
+                'phone_code' => 32,
             ),
             21 => 
             array (
@@ -281,7 +281,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Belmopan',
                 'currency' => 'BZD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 501,
+                'phone_code' => 501,
             ),
             22 => 
             array (
@@ -293,7 +293,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Porto-Novo',
                 'currency' => 'XOF',
                 'currency_name' => 'Franc',
-                'phonecode' => 229,
+                'phone_code' => 229,
             ),
             23 => 
             array (
@@ -305,7 +305,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Hamilton',
                 'currency' => 'BMD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1441,
+                'phone_code' => 1441,
             ),
             24 => 
             array (
@@ -317,7 +317,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Thimphu',
                 'currency' => 'BTN',
                 'currency_name' => 'Ngultrum',
-                'phonecode' => 975,
+                'phone_code' => 975,
             ),
             25 => 
             array (
@@ -329,7 +329,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Sucre',
                 'currency' => 'BOB',
                 'currency_name' => 'Boliviano',
-                'phonecode' => 591,
+                'phone_code' => 591,
             ),
             26 => 
             array (
@@ -341,7 +341,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Sarajevo',
                 'currency' => 'BAM',
                 'currency_name' => 'Marka',
-                'phonecode' => 387,
+                'phone_code' => 387,
             ),
             27 => 
             array (
@@ -353,7 +353,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Gaborone',
                 'currency' => 'BWP',
                 'currency_name' => 'Pula',
-                'phonecode' => 267,
+                'phone_code' => 267,
             ),
             28 => 
             array (
@@ -365,7 +365,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => NULL,
                 'currency' => 'NOK',
                 'currency_name' => 'Krone',
-                'phonecode' => 0,
+                'phone_code' => 0,
             ),
             29 => 
             array (
@@ -377,7 +377,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Brasilia',
                 'currency' => 'BRL',
                 'currency_name' => 'Real',
-                'phonecode' => 55,
+                'phone_code' => 55,
             ),
             30 => 
             array (
@@ -389,7 +389,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Diego Garcia',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 246,
+                'phone_code' => 246,
             ),
             31 => 
             array (
@@ -401,7 +401,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bandar Seri Begawan',
                 'currency' => 'BND',
                 'currency_name' => 'Dollar',
-                'phonecode' => 673,
+                'phone_code' => 673,
             ),
             32 => 
             array (
@@ -413,7 +413,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Sofia',
                 'currency' => 'BGN',
                 'currency_name' => 'Lev',
-                'phonecode' => 359,
+                'phone_code' => 359,
             ),
             33 => 
             array (
@@ -425,7 +425,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Ouagadougou',
                 'currency' => 'XOF',
                 'currency_name' => 'Franc',
-                'phonecode' => 226,
+                'phone_code' => 226,
             ),
             34 => 
             array (
@@ -437,7 +437,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bujumbura',
                 'currency' => 'BIF',
                 'currency_name' => 'Franc',
-                'phonecode' => 257,
+                'phone_code' => 257,
             ),
             35 => 
             array (
@@ -449,7 +449,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Phnom Penh',
                 'currency' => 'KHR',
                 'currency_name' => 'Riels',
-                'phonecode' => 855,
+                'phone_code' => 855,
             ),
             36 => 
             array (
@@ -461,7 +461,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Yaounde',
                 'currency' => 'XAF',
                 'currency_name' => 'Franc',
-                'phonecode' => 237,
+                'phone_code' => 237,
             ),
             37 => 
             array (
@@ -473,7 +473,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Ottawa',
                 'currency' => 'CAD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1,
+                'phone_code' => 1,
             ),
             38 => 
             array (
@@ -485,7 +485,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Praia',
                 'currency' => 'CVE',
                 'currency_name' => 'Escudo',
-                'phonecode' => 238,
+                'phone_code' => 238,
             ),
             39 => 
             array (
@@ -497,7 +497,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'George Town',
                 'currency' => 'KYD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1345,
+                'phone_code' => 1345,
             ),
             40 => 
             array (
@@ -509,7 +509,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bangui',
                 'currency' => 'XAF',
                 'currency_name' => 'Franc',
-                'phonecode' => 236,
+                'phone_code' => 236,
             ),
             41 => 
             array (
@@ -521,7 +521,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'N\'Djamena',
                 'currency' => 'XAF',
                 'currency_name' => 'Franc',
-                'phonecode' => 235,
+                'phone_code' => 235,
             ),
             42 => 
             array (
@@ -533,7 +533,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Santiago',
                 'currency' => 'CLP',
                 'currency_name' => 'Peso',
-                'phonecode' => 56,
+                'phone_code' => 56,
             ),
             43 => 
             array (
@@ -545,7 +545,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Beijing',
                 'currency' => 'CNY',
                 'currency_name' => 'Yuan Renminbi',
-                'phonecode' => 86,
+                'phone_code' => 86,
             ),
             44 => 
             array (
@@ -557,7 +557,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Flying Fish Cove',
                 'currency' => 'AUD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 61,
+                'phone_code' => 61,
             ),
             45 => 
             array (
@@ -569,7 +569,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'West Island',
                 'currency' => 'AUD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 672,
+                'phone_code' => 672,
             ),
             46 => 
             array (
@@ -581,7 +581,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bogota',
                 'currency' => 'COP',
                 'currency_name' => 'Peso',
-                'phonecode' => 57,
+                'phone_code' => 57,
             ),
             47 => 
             array (
@@ -593,7 +593,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Moroni',
                 'currency' => 'KMF',
                 'currency_name' => 'Franc',
-                'phonecode' => 269,
+                'phone_code' => 269,
             ),
             48 => 
             array (
@@ -605,7 +605,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Brazzaville',
                 'currency' => 'CDF',
                 'currency_name' => 'Franc',
-                'phonecode' => 242,
+                'phone_code' => 242,
             ),
             49 => 
             array (
@@ -617,7 +617,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kinshasa',
                 'currency' => 'CDF',
                 'currency_name' => 'Franc',
-                'phonecode' => 242,
+                'phone_code' => 242,
             ),
             50 => 
             array (
@@ -629,7 +629,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Avarua',
                 'currency' => 'NZD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 682,
+                'phone_code' => 682,
             ),
             51 => 
             array (
@@ -641,7 +641,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'San Jose',
                 'currency' => 'CRC',
                 'currency_name' => 'Colon',
-                'phonecode' => 506,
+                'phone_code' => 506,
             ),
             52 => 
             array (
@@ -653,7 +653,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Yamoussoukro',
                 'currency' => 'XOF',
                 'currency_name' => 'Franc',
-                'phonecode' => 225,
+                'phone_code' => 225,
             ),
             53 => 
             array (
@@ -665,7 +665,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Zagreb',
                 'currency' => 'HRK',
                 'currency_name' => 'Kuna',
-                'phonecode' => 385,
+                'phone_code' => 385,
             ),
             54 => 
             array (
@@ -677,7 +677,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Havana',
                 'currency' => 'CUP',
                 'currency_name' => 'Peso',
-                'phonecode' => 53,
+                'phone_code' => 53,
             ),
             55 => 
             array (
@@ -689,7 +689,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Nicosia',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 357,
+                'phone_code' => 357,
             ),
             56 => 
             array (
@@ -701,7 +701,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Prague',
                 'currency' => 'CZK',
                 'currency_name' => 'Koruna',
-                'phonecode' => 420,
+                'phone_code' => 420,
             ),
             57 => 
             array (
@@ -713,7 +713,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Copenhagen',
                 'currency' => 'DKK',
                 'currency_name' => 'Krone',
-                'phonecode' => 45,
+                'phone_code' => 45,
             ),
             58 => 
             array (
@@ -725,7 +725,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Djibouti',
                 'currency' => 'DJF',
                 'currency_name' => 'Franc',
-                'phonecode' => 253,
+                'phone_code' => 253,
             ),
             59 => 
             array (
@@ -737,7 +737,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Roseau',
                 'currency' => 'XCD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1767,
+                'phone_code' => 1767,
             ),
             60 => 
             array (
@@ -749,7 +749,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Santo Domingo',
                 'currency' => 'DOP',
                 'currency_name' => 'Peso',
-                'phonecode' => 1809,
+                'phone_code' => 1809,
             ),
             61 => 
             array (
@@ -761,7 +761,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Dili',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 670,
+                'phone_code' => 670,
             ),
             62 => 
             array (
@@ -773,7 +773,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Quito',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 593,
+                'phone_code' => 593,
             ),
             63 => 
             array (
@@ -785,7 +785,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Cairo',
                 'currency' => 'EGP',
                 'currency_name' => 'Pound',
-                'phonecode' => 20,
+                'phone_code' => 20,
             ),
             64 => 
             array (
@@ -797,7 +797,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'San Salvador',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 503,
+                'phone_code' => 503,
             ),
             65 => 
             array (
@@ -809,7 +809,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Malabo',
                 'currency' => 'XAF',
                 'currency_name' => 'Franc',
-                'phonecode' => 240,
+                'phone_code' => 240,
             ),
             66 => 
             array (
@@ -821,7 +821,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Asmara',
                 'currency' => 'ERN',
                 'currency_name' => 'Nakfa',
-                'phonecode' => 291,
+                'phone_code' => 291,
             ),
             67 => 
             array (
@@ -833,7 +833,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tallinn',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 372,
+                'phone_code' => 372,
             ),
             68 => 
             array (
@@ -845,7 +845,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Addis Ababa',
                 'currency' => 'ETB',
                 'currency_name' => 'Birr',
-                'phonecode' => 251,
+                'phone_code' => 251,
             ),
             69 => 
             array (
@@ -857,7 +857,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => NULL,
                 'currency' => NULL,
                 'currency_name' => NULL,
-                'phonecode' => 61,
+                'phone_code' => 61,
             ),
             70 => 
             array (
@@ -869,7 +869,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Stanley',
                 'currency' => 'FKP',
                 'currency_name' => 'Pound',
-                'phonecode' => 500,
+                'phone_code' => 500,
             ),
             71 => 
             array (
@@ -881,7 +881,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Torshavn',
                 'currency' => 'DKK',
                 'currency_name' => 'Krone',
-                'phonecode' => 298,
+                'phone_code' => 298,
             ),
             72 => 
             array (
@@ -893,7 +893,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Suva',
                 'currency' => 'FJD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 679,
+                'phone_code' => 679,
             ),
             73 => 
             array (
@@ -905,7 +905,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Helsinki',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 358,
+                'phone_code' => 358,
             ),
             74 => 
             array (
@@ -917,7 +917,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Paris',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 33,
+                'phone_code' => 33,
             ),
             75 => 
             array (
@@ -929,7 +929,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Cayenne',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 594,
+                'phone_code' => 594,
             ),
             76 => 
             array (
@@ -941,7 +941,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Papeete',
                 'currency' => 'XPF',
                 'currency_name' => 'Franc',
-                'phonecode' => 689,
+                'phone_code' => 689,
             ),
             77 => 
             array (
@@ -953,7 +953,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Port-aux-Francais',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 0,
+                'phone_code' => 0,
             ),
             78 => 
             array (
@@ -965,7 +965,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Libreville',
                 'currency' => 'XAF',
                 'currency_name' => 'Franc',
-                'phonecode' => 241,
+                'phone_code' => 241,
             ),
             79 => 
             array (
@@ -977,7 +977,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Banjul',
                 'currency' => 'GMD',
                 'currency_name' => 'Dalasi',
-                'phonecode' => 220,
+                'phone_code' => 220,
             ),
             80 => 
             array (
@@ -989,7 +989,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tbilisi',
                 'currency' => 'GEL',
                 'currency_name' => 'Lari',
-                'phonecode' => 995,
+                'phone_code' => 995,
             ),
             81 => 
             array (
@@ -1001,7 +1001,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Berlin',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 49,
+                'phone_code' => 49,
             ),
             82 => 
             array (
@@ -1013,7 +1013,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Accra',
                 'currency' => 'GHS',
                 'currency_name' => 'Cedi',
-                'phonecode' => 233,
+                'phone_code' => 233,
             ),
             83 => 
             array (
@@ -1025,7 +1025,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Gibraltar',
                 'currency' => 'GIP',
                 'currency_name' => 'Pound',
-                'phonecode' => 350,
+                'phone_code' => 350,
             ),
             84 => 
             array (
@@ -1037,7 +1037,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Athens',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 30,
+                'phone_code' => 30,
             ),
             85 => 
             array (
@@ -1049,7 +1049,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Nuuk',
                 'currency' => 'DKK',
                 'currency_name' => 'Krone',
-                'phonecode' => 299,
+                'phone_code' => 299,
             ),
             86 => 
             array (
@@ -1061,7 +1061,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'St. George\'s',
                 'currency' => 'XCD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1473,
+                'phone_code' => 1473,
             ),
             87 => 
             array (
@@ -1073,7 +1073,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Basse-Terre',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 590,
+                'phone_code' => 590,
             ),
             88 => 
             array (
@@ -1085,7 +1085,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Hagatna',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 1671,
+                'phone_code' => 1671,
             ),
             89 => 
             array (
@@ -1097,7 +1097,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Guatemala City',
                 'currency' => 'GTQ',
                 'currency_name' => 'Quetzal',
-                'phonecode' => 502,
+                'phone_code' => 502,
             ),
             90 => 
             array (
@@ -1109,7 +1109,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => NULL,
                 'currency' => NULL,
                 'currency_name' => NULL,
-                'phonecode' => 44,
+                'phone_code' => 44,
             ),
             91 => 
             array (
@@ -1121,7 +1121,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Conakry',
                 'currency' => 'GNF',
                 'currency_name' => 'Franc',
-                'phonecode' => 224,
+                'phone_code' => 224,
             ),
             92 => 
             array (
@@ -1133,7 +1133,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bissau',
                 'currency' => 'XOF',
                 'currency_name' => 'Franc',
-                'phonecode' => 245,
+                'phone_code' => 245,
             ),
             93 => 
             array (
@@ -1145,7 +1145,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Georgetown',
                 'currency' => 'GYD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 592,
+                'phone_code' => 592,
             ),
             94 => 
             array (
@@ -1157,7 +1157,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Port-au-Prince',
                 'currency' => 'HTG',
                 'currency_name' => 'Gourde',
-                'phonecode' => 509,
+                'phone_code' => 509,
             ),
             95 => 
             array (
@@ -1169,7 +1169,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => NULL,
                 'currency' => 'AUD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 0,
+                'phone_code' => 0,
             ),
             96 => 
             array (
@@ -1181,7 +1181,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tegucigalpa',
                 'currency' => 'HNI',
                 'currency_name' => 'Lempira',
-                'phonecode' => 504,
+                'phone_code' => 504,
             ),
             97 => 
             array (
@@ -1193,7 +1193,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Hong Kong',
                 'currency' => 'HKD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 852,
+                'phone_code' => 852,
             ),
             98 => 
             array (
@@ -1205,7 +1205,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Budapest',
                 'currency' => 'HUF',
                 'currency_name' => 'Forint',
-                'phonecode' => 36,
+                'phone_code' => 36,
             ),
             99 => 
             array (
@@ -1217,7 +1217,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Reykjavik',
                 'currency' => 'ISK',
                 'currency_name' => 'Krona',
-                'phonecode' => 354,
+                'phone_code' => 354,
             ),
             100 => 
             array (
@@ -1229,7 +1229,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'New Delhi',
                 'currency' => 'INR',
                 'currency_name' => 'Rupee',
-                'phonecode' => 91,
+                'phone_code' => 91,
             ),
             101 => 
             array (
@@ -1241,7 +1241,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Jakarta',
                 'currency' => 'IDR',
                 'currency_name' => 'Rupiah',
-                'phonecode' => 62,
+                'phone_code' => 62,
             ),
             102 => 
             array (
@@ -1253,7 +1253,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tehran',
                 'currency' => 'IRR',
                 'currency_name' => 'Rial',
-                'phonecode' => 98,
+                'phone_code' => 98,
             ),
             103 => 
             array (
@@ -1265,7 +1265,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Baghdad',
                 'currency' => 'IQD',
                 'currency_name' => 'Dinar',
-                'phonecode' => 964,
+                'phone_code' => 964,
             ),
             104 => 
             array (
@@ -1277,7 +1277,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Dublin',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 353,
+                'phone_code' => 353,
             ),
             105 => 
             array (
@@ -1289,7 +1289,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Jerusalem',
                 'currency' => 'ILS',
                 'currency_name' => 'Shekel',
-                'phonecode' => 972,
+                'phone_code' => 972,
             ),
             106 => 
             array (
@@ -1301,7 +1301,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Rome',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 39,
+                'phone_code' => 39,
             ),
             107 => 
             array (
@@ -1313,7 +1313,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kingston',
                 'currency' => 'JMD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1876,
+                'phone_code' => 1876,
             ),
             108 => 
             array (
@@ -1325,7 +1325,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tokyo',
                 'currency' => 'JPY',
                 'currency_name' => 'Yen',
-                'phonecode' => 81,
+                'phone_code' => 81,
             ),
             109 => 
             array (
@@ -1337,7 +1337,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Saint Helier',
                 'currency' => 'GBP',
                 'currency_name' => 'Pound',
-                'phonecode' => 44,
+                'phone_code' => 44,
             ),
             110 => 
             array (
@@ -1349,7 +1349,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Amman',
                 'currency' => 'JOD',
                 'currency_name' => 'Dinar',
-                'phonecode' => 962,
+                'phone_code' => 962,
             ),
             111 => 
             array (
@@ -1361,7 +1361,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Astana',
                 'currency' => 'KZT',
                 'currency_name' => 'Tenge',
-                'phonecode' => 7,
+                'phone_code' => 7,
             ),
             112 => 
             array (
@@ -1373,7 +1373,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Nairobi',
                 'currency' => 'KES',
                 'currency_name' => 'Shilling',
-                'phonecode' => 254,
+                'phone_code' => 254,
             ),
             113 => 
             array (
@@ -1385,7 +1385,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tarawa',
                 'currency' => 'AUD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 686,
+                'phone_code' => 686,
             ),
             114 => 
             array (
@@ -1397,7 +1397,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Pyongyang',
                 'currency' => 'KPW',
                 'currency_name' => 'Won',
-                'phonecode' => 850,
+                'phone_code' => 850,
             ),
             115 => 
             array (
@@ -1409,7 +1409,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Seoul',
                 'currency' => 'KRW',
                 'currency_name' => 'Won',
-                'phonecode' => 82,
+                'phone_code' => 82,
             ),
             116 => 
             array (
@@ -1421,7 +1421,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kuwait City',
                 'currency' => 'KWD',
                 'currency_name' => 'Dinar',
-                'phonecode' => 965,
+                'phone_code' => 965,
             ),
             117 => 
             array (
@@ -1433,7 +1433,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bishkek',
                 'currency' => 'KGS',
                 'currency_name' => 'Som',
-                'phonecode' => 996,
+                'phone_code' => 996,
             ),
             118 => 
             array (
@@ -1445,7 +1445,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Vientiane',
                 'currency' => 'LAK',
                 'currency_name' => 'Kip',
-                'phonecode' => 856,
+                'phone_code' => 856,
             ),
             119 => 
             array (
@@ -1457,7 +1457,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Riga',
                 'currency' => 'LVL',
                 'currency_name' => 'Lat',
-                'phonecode' => 371,
+                'phone_code' => 371,
             ),
             120 => 
             array (
@@ -1469,7 +1469,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Beirut',
                 'currency' => 'LBP',
                 'currency_name' => 'Pound',
-                'phonecode' => 961,
+                'phone_code' => 961,
             ),
             121 => 
             array (
@@ -1481,7 +1481,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Maseru',
                 'currency' => 'LSL',
                 'currency_name' => 'Loti',
-                'phonecode' => 266,
+                'phone_code' => 266,
             ),
             122 => 
             array (
@@ -1493,7 +1493,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Monrovia',
                 'currency' => 'LRD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 231,
+                'phone_code' => 231,
             ),
             123 => 
             array (
@@ -1505,7 +1505,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tripolis',
                 'currency' => 'LYD',
                 'currency_name' => 'Dinar',
-                'phonecode' => 218,
+                'phone_code' => 218,
             ),
             124 => 
             array (
@@ -1517,7 +1517,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Vaduz',
                 'currency' => 'CHF',
                 'currency_name' => 'Franc',
-                'phonecode' => 423,
+                'phone_code' => 423,
             ),
             125 => 
             array (
@@ -1529,7 +1529,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Vilnius',
                 'currency' => 'LTL',
                 'currency_name' => 'Litas',
-                'phonecode' => 370,
+                'phone_code' => 370,
             ),
             126 => 
             array (
@@ -1541,7 +1541,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Luxembourg',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 352,
+                'phone_code' => 352,
             ),
             127 => 
             array (
@@ -1553,7 +1553,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Macao',
                 'currency' => 'MOP',
                 'currency_name' => 'Pataca',
-                'phonecode' => 853,
+                'phone_code' => 853,
             ),
             128 => 
             array (
@@ -1565,7 +1565,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Skopje',
                 'currency' => 'MKD',
                 'currency_name' => 'Denar',
-                'phonecode' => 389,
+                'phone_code' => 389,
             ),
             129 => 
             array (
@@ -1577,7 +1577,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Antananarivo',
                 'currency' => 'MGA',
                 'currency_name' => 'Ariary',
-                'phonecode' => 261,
+                'phone_code' => 261,
             ),
             130 => 
             array (
@@ -1589,7 +1589,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Lilongwe',
                 'currency' => 'MWK',
                 'currency_name' => 'Kwacha',
-                'phonecode' => 265,
+                'phone_code' => 265,
             ),
             131 => 
             array (
@@ -1601,7 +1601,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kuala Lumpur',
                 'currency' => 'MYR',
                 'currency_name' => 'Ringgit',
-                'phonecode' => 60,
+                'phone_code' => 60,
             ),
             132 => 
             array (
@@ -1613,7 +1613,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Male',
                 'currency' => 'MVR',
                 'currency_name' => 'Rufiyaa',
-                'phonecode' => 960,
+                'phone_code' => 960,
             ),
             133 => 
             array (
@@ -1625,7 +1625,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bamako',
                 'currency' => 'XOF',
                 'currency_name' => 'Franc',
-                'phonecode' => 223,
+                'phone_code' => 223,
             ),
             134 => 
             array (
@@ -1637,7 +1637,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Valletta',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 356,
+                'phone_code' => 356,
             ),
             135 => 
             array (
@@ -1649,7 +1649,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Douglas',
                 'currency' => 'GBP',
                 'currency_name' => '',
-                'phonecode' => 44,
+                'phone_code' => 44,
             ),
             136 => 
             array (
@@ -1661,7 +1661,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Majuro',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 692,
+                'phone_code' => 692,
             ),
             137 => 
             array (
@@ -1673,7 +1673,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Fort-de-France',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 596,
+                'phone_code' => 596,
             ),
             138 => 
             array (
@@ -1685,7 +1685,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Nouakchott',
                 'currency' => 'MRO',
                 'currency_name' => 'Ouguiya',
-                'phonecode' => 222,
+                'phone_code' => 222,
             ),
             139 => 
             array (
@@ -1697,7 +1697,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Port Louis',
                 'currency' => 'MUR',
                 'currency_name' => 'Rupee',
-                'phonecode' => 230,
+                'phone_code' => 230,
             ),
             140 => 
             array (
@@ -1709,7 +1709,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Mamoudzou',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 269,
+                'phone_code' => 269,
             ),
             141 => 
             array (
@@ -1721,7 +1721,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Mexico City',
                 'currency' => 'MXN',
                 'currency_name' => 'Peso',
-                'phonecode' => 52,
+                'phone_code' => 52,
             ),
             142 => 
             array (
@@ -1733,7 +1733,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Palikir',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 691,
+                'phone_code' => 691,
             ),
             143 => 
             array (
@@ -1745,7 +1745,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Chisinau',
                 'currency' => 'MDL',
                 'currency_name' => 'Leu',
-                'phonecode' => 373,
+                'phone_code' => 373,
             ),
             144 => 
             array (
@@ -1757,7 +1757,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Monaco',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 377,
+                'phone_code' => 377,
             ),
             145 => 
             array (
@@ -1769,7 +1769,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Ulan Bator',
                 'currency' => 'MNT',
                 'currency_name' => 'Tugrik',
-                'phonecode' => 976,
+                'phone_code' => 976,
             ),
             146 => 
             array (
@@ -1781,7 +1781,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Plymouth',
                 'currency' => 'XCD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1664,
+                'phone_code' => 1664,
             ),
             147 => 
             array (
@@ -1793,7 +1793,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Rabat',
                 'currency' => 'MAD',
                 'currency_name' => 'Dirham',
-                'phonecode' => 212,
+                'phone_code' => 212,
             ),
             148 => 
             array (
@@ -1805,7 +1805,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Maputo',
                 'currency' => 'MZN',
                 'currency_name' => 'Metical',
-                'phonecode' => 258,
+                'phone_code' => 258,
             ),
             149 => 
             array (
@@ -1817,7 +1817,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Nay Pyi Taw',
                 'currency' => 'MMK',
                 'currency_name' => 'Kyat',
-                'phonecode' => 95,
+                'phone_code' => 95,
             ),
             150 => 
             array (
@@ -1829,7 +1829,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Windhoek',
                 'currency' => 'NAD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 264,
+                'phone_code' => 264,
             ),
             151 => 
             array (
@@ -1841,7 +1841,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Yaren',
                 'currency' => 'AUD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 674,
+                'phone_code' => 674,
             ),
             152 => 
             array (
@@ -1853,7 +1853,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kathmandu',
                 'currency' => 'NPR',
                 'currency_name' => 'Rupee',
-                'phonecode' => 977,
+                'phone_code' => 977,
             ),
             153 => 
             array (
@@ -1865,7 +1865,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Willemstad',
                 'currency' => 'ANG',
                 'currency_name' => 'Guilder',
-                'phonecode' => 599,
+                'phone_code' => 599,
             ),
             154 => 
             array (
@@ -1877,7 +1877,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Amsterdam',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 31,
+                'phone_code' => 31,
             ),
             155 => 
             array (
@@ -1889,7 +1889,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Noumea',
                 'currency' => 'XPF',
                 'currency_name' => 'Franc',
-                'phonecode' => 687,
+                'phone_code' => 687,
             ),
             156 => 
             array (
@@ -1901,7 +1901,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Wellington',
                 'currency' => 'NZD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 64,
+                'phone_code' => 64,
             ),
             157 => 
             array (
@@ -1913,7 +1913,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Managua',
                 'currency' => 'NIO',
                 'currency_name' => 'Cordoba',
-                'phonecode' => 505,
+                'phone_code' => 505,
             ),
             158 => 
             array (
@@ -1925,7 +1925,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Niamey',
                 'currency' => 'XOF',
                 'currency_name' => 'Franc',
-                'phonecode' => 227,
+                'phone_code' => 227,
             ),
             159 => 
             array (
@@ -1937,7 +1937,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Abuja',
                 'currency' => 'NGN',
                 'currency_name' => 'Naira',
-                'phonecode' => 234,
+                'phone_code' => 234,
             ),
             160 => 
             array (
@@ -1949,7 +1949,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Alofi',
                 'currency' => 'NZD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 683,
+                'phone_code' => 683,
             ),
             161 => 
             array (
@@ -1961,7 +1961,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kingston',
                 'currency' => 'AUD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 672,
+                'phone_code' => 672,
             ),
             162 => 
             array (
@@ -1973,7 +1973,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Saipan',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1670,
+                'phone_code' => 1670,
             ),
             163 => 
             array (
@@ -1985,7 +1985,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Oslo',
                 'currency' => 'NOK',
                 'currency_name' => 'Krone',
-                'phonecode' => 47,
+                'phone_code' => 47,
             ),
             164 => 
             array (
@@ -1997,7 +1997,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Muscat',
                 'currency' => 'OMR',
                 'currency_name' => 'Rial',
-                'phonecode' => 968,
+                'phone_code' => 968,
             ),
             165 => 
             array (
@@ -2009,7 +2009,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Islamabad',
                 'currency' => 'PKR',
                 'currency_name' => 'Rupee',
-                'phonecode' => 92,
+                'phone_code' => 92,
             ),
             166 => 
             array (
@@ -2021,7 +2021,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Melekeok',
                 'currency' => 'USD ',
                 'currency_name' => 'Dollar',
-                'phonecode' => 680,
+                'phone_code' => 680,
             ),
             167 => 
             array (
@@ -2033,7 +2033,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'East Jerusalem',
                 'currency' => 'ILS',
                 'currency_name' => 'Shekel',
-                'phonecode' => 970,
+                'phone_code' => 970,
             ),
             168 => 
             array (
@@ -2045,7 +2045,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Panama City',
                 'currency' => 'PAB',
                 'currency_name' => 'Balboa',
-                'phonecode' => 507,
+                'phone_code' => 507,
             ),
             169 => 
             array (
@@ -2057,7 +2057,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Port Moresby',
                 'currency' => 'PGK',
                 'currency_name' => 'Kina',
-                'phonecode' => 675,
+                'phone_code' => 675,
             ),
             170 => 
             array (
@@ -2069,7 +2069,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Asuncion',
                 'currency' => 'PYG',
                 'currency_name' => 'Guarani',
-                'phonecode' => 595,
+                'phone_code' => 595,
             ),
             171 => 
             array (
@@ -2081,7 +2081,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Lima',
                 'currency' => 'PEN',
                 'currency_name' => 'Sol',
-                'phonecode' => 51,
+                'phone_code' => 51,
             ),
             172 => 
             array (
@@ -2093,7 +2093,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Manila',
                 'currency' => 'PHP',
                 'currency_name' => 'Peso',
-                'phonecode' => 63,
+                'phone_code' => 63,
             ),
             173 => 
             array (
@@ -2105,7 +2105,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Adamstown',
                 'currency' => 'NZD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 0,
+                'phone_code' => 0,
             ),
             174 => 
             array (
@@ -2117,7 +2117,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Warsaw',
                 'currency' => 'PLN',
                 'currency_name' => 'Zloty',
-                'phonecode' => 48,
+                'phone_code' => 48,
             ),
             175 => 
             array (
@@ -2129,7 +2129,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Lisbon',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 351,
+                'phone_code' => 351,
             ),
             176 => 
             array (
@@ -2141,7 +2141,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'San Juan',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1787,
+                'phone_code' => 1787,
             ),
             177 => 
             array (
@@ -2153,7 +2153,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Doha',
                 'currency' => 'QAR',
                 'currency_name' => 'Rial',
-                'phonecode' => 974,
+                'phone_code' => 974,
             ),
             178 => 
             array (
@@ -2165,7 +2165,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Saint-Denis',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 262,
+                'phone_code' => 262,
             ),
             179 => 
             array (
@@ -2177,7 +2177,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bucharest',
                 'currency' => 'RON',
                 'currency_name' => 'Leu',
-                'phonecode' => 40,
+                'phone_code' => 40,
             ),
             180 => 
             array (
@@ -2189,7 +2189,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Moscow',
                 'currency' => 'RUB',
                 'currency_name' => 'Ruble',
-                'phonecode' => 70,
+                'phone_code' => 70,
             ),
             181 => 
             array (
@@ -2201,7 +2201,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kigali',
                 'currency' => 'RWF',
                 'currency_name' => 'Franc',
-                'phonecode' => 250,
+                'phone_code' => 250,
             ),
             182 => 
             array (
@@ -2213,7 +2213,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Jamestown',
                 'currency' => 'SHP',
                 'currency_name' => 'Pound',
-                'phonecode' => 290,
+                'phone_code' => 290,
             ),
             183 => 
             array (
@@ -2225,7 +2225,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Basseterre',
                 'currency' => 'XCD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1869,
+                'phone_code' => 1869,
             ),
             184 => 
             array (
@@ -2237,7 +2237,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Castries',
                 'currency' => 'XCD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1758,
+                'phone_code' => 1758,
             ),
             185 => 
             array (
@@ -2249,7 +2249,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Saint-Pierre',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 508,
+                'phone_code' => 508,
             ),
             186 => 
             array (
@@ -2261,7 +2261,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kingstown',
                 'currency' => 'XCD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1784,
+                'phone_code' => 1784,
             ),
             187 => 
             array (
@@ -2273,7 +2273,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Apia',
                 'currency' => 'WST',
                 'currency_name' => 'Tala',
-                'phonecode' => 684,
+                'phone_code' => 684,
             ),
             188 => 
             array (
@@ -2285,7 +2285,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'San Marino',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 378,
+                'phone_code' => 378,
             ),
             189 => 
             array (
@@ -2297,7 +2297,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Sao Tome',
                 'currency' => 'STD',
                 'currency_name' => 'Dobra',
-                'phonecode' => 239,
+                'phone_code' => 239,
             ),
             190 => 
             array (
@@ -2309,7 +2309,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Riyadh',
                 'currency' => 'SAR',
                 'currency_name' => 'Rial',
-                'phonecode' => 966,
+                'phone_code' => 966,
             ),
             191 => 
             array (
@@ -2321,7 +2321,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Dakar',
                 'currency' => 'XOF',
                 'currency_name' => 'Franc',
-                'phonecode' => 221,
+                'phone_code' => 221,
             ),
             192 => 
             array (
@@ -2333,7 +2333,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Belgrade',
                 'currency' => 'RSD',
                 'currency_name' => 'Dinar',
-                'phonecode' => 381,
+                'phone_code' => 381,
             ),
             193 => 
             array (
@@ -2345,7 +2345,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Victoria',
                 'currency' => 'SCR',
                 'currency_name' => 'Rupee',
-                'phonecode' => 248,
+                'phone_code' => 248,
             ),
             194 => 
             array (
@@ -2357,7 +2357,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Freetown',
                 'currency' => 'SLL',
                 'currency_name' => 'Leone',
-                'phonecode' => 232,
+                'phone_code' => 232,
             ),
             195 => 
             array (
@@ -2369,7 +2369,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Singapur',
                 'currency' => 'SGD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 65,
+                'phone_code' => 65,
             ),
             196 => 
             array (
@@ -2381,7 +2381,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bratislava',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 421,
+                'phone_code' => 421,
             ),
             197 => 
             array (
@@ -2393,7 +2393,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Ljubljana',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 386,
+                'phone_code' => 386,
             ),
             198 => 
             array (
@@ -2405,7 +2405,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => NULL,
                 'currency' => NULL,
                 'currency_name' => NULL,
-                'phonecode' => 44,
+                'phone_code' => 44,
             ),
             199 => 
             array (
@@ -2417,7 +2417,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Honiara',
                 'currency' => 'SBD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 677,
+                'phone_code' => 677,
             ),
             200 => 
             array (
@@ -2429,7 +2429,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Mogadishu',
                 'currency' => 'SOS',
                 'currency_name' => 'Shilling',
-                'phonecode' => 252,
+                'phone_code' => 252,
             ),
             201 => 
             array (
@@ -2441,7 +2441,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Pretoria',
                 'currency' => 'ZAR',
                 'currency_name' => 'Rand',
-                'phonecode' => 27,
+                'phone_code' => 27,
             ),
             202 => 
             array (
@@ -2453,7 +2453,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Grytviken',
                 'currency' => 'GBP',
                 'currency_name' => 'Pound',
-                'phonecode' => 0,
+                'phone_code' => 0,
             ),
             203 => 
             array (
@@ -2465,7 +2465,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Juba',
                 'currency' => 'SSP',
                 'currency_name' => 'Pound',
-                'phonecode' => 211,
+                'phone_code' => 211,
             ),
             204 => 
             array (
@@ -2477,7 +2477,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Madrid',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 34,
+                'phone_code' => 34,
             ),
             205 => 
             array (
@@ -2489,7 +2489,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Colombo',
                 'currency' => 'LKR',
                 'currency_name' => 'Rupee',
-                'phonecode' => 94,
+                'phone_code' => 94,
             ),
             206 => 
             array (
@@ -2501,7 +2501,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Khartoum',
                 'currency' => 'SDG',
                 'currency_name' => 'Pound',
-                'phonecode' => 249,
+                'phone_code' => 249,
             ),
             207 => 
             array (
@@ -2513,7 +2513,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Paramaribo',
                 'currency' => 'SRD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 597,
+                'phone_code' => 597,
             ),
             208 => 
             array (
@@ -2525,7 +2525,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Longyearbyen',
                 'currency' => 'NOK',
                 'currency_name' => 'Krona',
-                'phonecode' => 47,
+                'phone_code' => 47,
             ),
             209 => 
             array (
@@ -2537,7 +2537,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Mbabane',
                 'currency' => 'SZL',
                 'currency_name' => 'Lilangeni',
-                'phonecode' => 268,
+                'phone_code' => 268,
             ),
             210 => 
             array (
@@ -2549,7 +2549,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Stockholm',
                 'currency' => 'SEK',
                 'currency_name' => 'Krona',
-                'phonecode' => 46,
+                'phone_code' => 46,
             ),
             211 => 
             array (
@@ -2561,7 +2561,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Berne',
                 'currency' => 'CHF',
                 'currency_name' => 'Franc',
-                'phonecode' => 41,
+                'phone_code' => 41,
             ),
             212 => 
             array (
@@ -2573,7 +2573,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Damascus',
                 'currency' => 'SYP',
                 'currency_name' => 'Pound',
-                'phonecode' => 963,
+                'phone_code' => 963,
             ),
             213 => 
             array (
@@ -2585,7 +2585,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Taipei',
                 'currency' => 'TWD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 886,
+                'phone_code' => 886,
             ),
             214 => 
             array (
@@ -2597,7 +2597,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Dushanbe',
                 'currency' => 'THS',
                 'currency_name' => 'Somoni',
-                'phonecode' => 992,
+                'phone_code' => 992,
             ),
             215 => 
             array (
@@ -2609,7 +2609,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Dodoma',
                 'currency' => 'TZS',
                 'currency_name' => 'Shilling',
-                'phonecode' => 255,
+                'phone_code' => 255,
             ),
             216 => 
             array (
@@ -2621,7 +2621,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Bangkok',
                 'currency' => 'THB',
                 'currency_name' => 'Baht',
-                'phonecode' => 66,
+                'phone_code' => 66,
             ),
             217 => 
             array (
@@ -2633,7 +2633,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Lome',
                 'currency' => 'XOF',
                 'currency_name' => 'Franc',
-                'phonecode' => 228,
+                'phone_code' => 228,
             ),
             218 => 
             array (
@@ -2645,7 +2645,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Nukunonu',
                 'currency' => 'NZD ',
                 'currency_name' => 'Dollar',
-                'phonecode' => 690,
+                'phone_code' => 690,
             ),
             219 => 
             array (
@@ -2657,7 +2657,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Nuku\'alofa',
                 'currency' => 'TOP',
                 'currency_name' => 'Pa\'anga',
-                'phonecode' => 676,
+                'phone_code' => 676,
             ),
             220 => 
             array (
@@ -2669,7 +2669,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Port of Spain',
                 'currency' => 'TTD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1868,
+                'phone_code' => 1868,
             ),
             221 => 
             array (
@@ -2681,7 +2681,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tunis',
                 'currency' => 'TND',
                 'currency_name' => 'Dinar',
-                'phonecode' => 216,
+                'phone_code' => 216,
             ),
             222 => 
             array (
@@ -2693,7 +2693,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Ankara',
                 'currency' => 'TRY',
                 'currency_name' => 'Lira',
-                'phonecode' => 90,
+                'phone_code' => 90,
             ),
             223 => 
             array (
@@ -2705,7 +2705,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Ashgabat',
                 'currency' => 'TMT',
                 'currency_name' => 'Manat',
-                'phonecode' => 7370,
+                'phone_code' => 7370,
             ),
             224 => 
             array (
@@ -2717,7 +2717,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Cockburn Town',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1649,
+                'phone_code' => 1649,
             ),
             225 => 
             array (
@@ -2729,7 +2729,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Funafuti',
                 'currency' => 'AUD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 688,
+                'phone_code' => 688,
             ),
             226 => 
             array (
@@ -2741,7 +2741,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kampala',
                 'currency' => 'UGX',
                 'currency_name' => 'Shilling',
-                'phonecode' => 256,
+                'phone_code' => 256,
             ),
             227 => 
             array (
@@ -2753,7 +2753,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Kiev',
                 'currency' => 'UAH',
                 'currency_name' => 'Hryvnia',
-                'phonecode' => 380,
+                'phone_code' => 380,
             ),
             228 => 
             array (
@@ -2765,7 +2765,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Abu Dhabi',
                 'currency' => 'AED',
                 'currency_name' => 'Dirham',
-                'phonecode' => 971,
+                'phone_code' => 971,
             ),
             229 => 
             array (
@@ -2777,7 +2777,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'London',
                 'currency' => 'GBP',
                 'currency_name' => 'Pound',
-                'phonecode' => 44,
+                'phone_code' => 44,
             ),
             230 => 
             array (
@@ -2789,7 +2789,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Washington',
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1,
+                'phone_code' => 1,
             ),
             231 => 
             array (
@@ -2801,7 +2801,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => NULL,
                 'currency' => 'USD',
                 'currency_name' => 'Dollar',
-                'phonecode' => 1,
+                'phone_code' => 1,
             ),
             232 => 
             array (
@@ -2813,7 +2813,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Montevideo',
                 'currency' => 'UYU',
                 'currency_name' => 'Peso',
-                'phonecode' => 598,
+                'phone_code' => 598,
             ),
             233 => 
             array (
@@ -2825,7 +2825,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Tashkent',
                 'currency' => 'UZS',
                 'currency_name' => 'Som',
-                'phonecode' => 998,
+                'phone_code' => 998,
             ),
             234 => 
             array (
@@ -2837,7 +2837,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Port Vila',
                 'currency' => 'VUV',
                 'currency_name' => 'Vatu',
-                'phonecode' => 678,
+                'phone_code' => 678,
             ),
             235 => 
             array (
@@ -2849,7 +2849,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Vatican City',
                 'currency' => 'EUR',
                 'currency_name' => 'Euro',
-                'phonecode' => 39,
+                'phone_code' => 39,
             ),
             236 => 
             array (
@@ -2861,7 +2861,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Caracas',
                 'currency' => 'VEF',
                 'currency_name' => 'Bolivar',
-                'phonecode' => 58,
+                'phone_code' => 58,
             ),
             237 => 
             array (
@@ -2873,7 +2873,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Hanoi',
                 'currency' => 'VND',
                 'currency_name' => 'Dong',
-                'phonecode' => 84,
+                'phone_code' => 84,
             ),
             238 => 
             array (
@@ -2885,7 +2885,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Road Town',
                 'currency' => 'USD DOllar',
                 'currency_name' => NULL,
-                'phonecode' => 1284,
+                'phone_code' => 1284,
             ),
             239 => 
             array (
@@ -2897,7 +2897,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Charlotte Amalie',
                 'currency' => 'USD',
                 'currency_name' => 'DOllar',
-                'phonecode' => 1340,
+                'phone_code' => 1340,
             ),
             240 => 
             array (
@@ -2909,7 +2909,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Mata Utu',
                 'currency' => 'XPF',
                 'currency_name' => 'Franc',
-                'phonecode' => 681,
+                'phone_code' => 681,
             ),
             241 => 
             array (
@@ -2921,7 +2921,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'El-Aaiun',
                 'currency' => 'MAD',
                 'currency_name' => 'Dirham',
-                'phonecode' => 212,
+                'phone_code' => 212,
             ),
             242 => 
             array (
@@ -2933,7 +2933,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Sanaa',
                 'currency' => 'YER',
                 'currency_name' => 'Rial',
-                'phonecode' => 967,
+                'phone_code' => 967,
             ),
             243 => 
             array (
@@ -2945,7 +2945,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Belgrade',
                 'currency' => 'YUM',
                 'currency_name' => 'Yugoslav dinar',
-                'phonecode' => 38,
+                'phone_code' => 38,
             ),
             244 => 
             array (
@@ -2957,7 +2957,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Lusaka',
                 'currency' => 'ZMK',
                 'currency_name' => 'Kwacha',
-                'phonecode' => 260,
+                'phone_code' => 260,
             ),
             245 => 
             array (
@@ -2969,7 +2969,7 @@ class CountriesTableSeeder extends Seeder
                 'capital' => 'Harare',
                 'currency' => 'ZWL',
                 'currency_name' => 'Dollar',
-                'phonecode' => 263,
+                'phone_code' => 263,
             ),
         ));
         
